@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://pt.stackoverflow.com/users/125987/jean-barbosa">
+  <img src="https://pt.stackoverflow.com/users/flair/125987.png?theme=dark" width="208" height="58" alt="perfil de Jean Barbosa em Stack Overflow em Portugu&#234;s, Perguntas e respostas   para programadores profissionais e entusiastas" title="perfil de Jean Barbosa em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">
+</a>
+
 <!--
 **jeanpbarbosa/jeanpbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
