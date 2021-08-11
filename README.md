@@ -4,11 +4,13 @@ Desenvolvedor full stack.
 <br>
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <div style="background-color: white; height: 50px; width: 50px; border-radius: 50%;">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </div>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-line-wordmark.svg">
+  <img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-line.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
