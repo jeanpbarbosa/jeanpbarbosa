@@ -42,3 +42,9 @@ Confere lá: <a href="https://b3web.com.br">B3 Web</a>.<br>
 <a href="https://pt.stackoverflow.com/users/125987/jean-barbosa">
   <img src="https://pt.stackoverflow.com/users/flair/125987.png?theme=dark" width="208" height="58" alt="perfil de Jean Barbosa em Stack Overflow em Portugu&#234;s, Perguntas e respostas   para programadores profissionais e entusiastas" title="Perfil de Jean Barbosa em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">
 </a>
+
+<hr>
+
+<div>
+  <img src="https://i.giphy.com/media/cYxLgjZI5ezI2lrItX/giphy.webp">
+</div>
