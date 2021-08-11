@@ -1,6 +1,6 @@
 ### Eai! Aqui é o Jean, blz?
 Sou desenvolvedor full stack, com foco principal em PHP.<br>
-Atuo em pequenos e médios projetos, criando sites, sistemas online, integrações e etc.<br>
+Atuo em pequenos e médios projetos, criando sites, sistemas online, integrações (APIs) e etc.<br>
 Também com consultorias empresariais, otimizando processos com ferramentas MS Office.<br>
 Confere lá: <a href="https://b3web.com.br">B3 Web</a>.<br>
 
