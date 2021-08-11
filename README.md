@@ -1,7 +1,11 @@
 ### Eai! Aqui é o Jean, blz?
-Sou desenvolvedor full stack, com conhecimentos em diferentes tecnologias.
+Sou desenvolvedor full stack, com foco principal em PHP.<br>
+Atuo em pequenos e médios projetos, criando sites, sistemas online, integrações e etc.<br>
+Também com consultorias empresariais, otimizando processos com ferramentas MS Office.<br>
+Confere lá: <a href="https://b3web.com.br">B3 Web</a>.<br>
 
 <br>
+
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,9 +31,9 @@ Sou desenvolvedor full stack, com conhecimentos em diferentes tecnologias.
 
 <div>
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img alt="VBA" src="https://img.shields.io/badge/VBA-94187f?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <img alt="Power Query" src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img alt="VBA" src="https://img.shields.io/badge/VBA-95D053?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-DBB814?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img alt="Power Query" src="https://img.shields.io/badge/Power_Query-B0910F?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 
 <hr>
