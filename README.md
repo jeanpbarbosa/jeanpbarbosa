@@ -46,5 +46,6 @@ Confere lá: <a href="https://b3web.com.br">B3 Web</a>.<br>
 <hr>
 
 <div>
-  <img src="https://i.giphy.com/media/cYxLgjZI5ezI2lrItX/giphy.webp">
+  <!-- <img src="https://i.giphy.com/media/cYxLgjZI5ezI2lrItX/giphy.webp"> -->
+  <img src="https://i.giphy.com/media/2aJWp7iwvHS7wOTUpc/giphy.gif">
 </div>
